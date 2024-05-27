@@ -1,7 +1,7 @@
-import 'package:ble_sensors_demo/sensor_view/ui/sensor_page.dart';
 import 'package:ble_sensors_demo/views/sensor_view/domain/cubit/sensor_cubit.dart';
 import 'package:ble_sensors_demo/views/sensor_view/domain/repository/sensor_repository.dart';
 import 'package:ble_sensors_demo/views/sensor_view/domain/service/sensor_service.dart';
+import 'package:ble_sensors_demo/views/sensor_view/ui/sensor_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
